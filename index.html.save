@@ -16,18 +16,18 @@
         <h2 align="center">Website</h2>
       </div>
       <div id="forum-link" align="center">
-   <h3><a href="http://unix-room.ct8.pl/forum/forumdisplay.php?fid=11">forum</a></h3>
+   <h3><a href="http://off-forum.ct8.pl/forumdisplay.php?fid=9">forum</a></h3>
    <h3><a href="https://github.com/R-User-System">Github</a></h3>
-    </div>                                                   9
+    </div>
     <br /><br />
-    <div id="info" align="center"><h2>Your choice is your choice</h2></div>
-    <br /><br />                                                                                                      
+    <div id="moto" align="center"><h2>Linux distribution that you build according to your own rules</h2></div>
+    <br /><br />
     <br /><br />
     <br /><br />
     <br /><br />
     <div id="footer" align="center">
-        <h1><a href="https://discord.gg/82AgSWb">Discord Server</a></h1>
-    </div>                                                             
-</body>                 
+        <h1><a href="https://pat-foundation.github.io/">Pat foundation Project</a></h1>
+    </div>                                                                                                                                       
+</body>
 </html>
-                                             
+                        
